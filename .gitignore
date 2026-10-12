@@ -5,3 +5,8 @@ Overlay/Skin-Build/
 Overlay/Skin-Loop/
 Overlay/Text-Build/
 Overlay/Text-Build_2072.zip
+
+# Old Blender versions and backups (only Overlay-Skin1.blend is final)
+Overlay/Overlay-Skin.blend
+Overlay/Overlay-Skin 2.blend
+*.blend1
