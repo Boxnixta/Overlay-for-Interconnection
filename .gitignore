@@ -1,1 +1,7 @@
 .DS_Store
+
+# Rendered EXR sequences (~19 GB, too large for GitHub)
+Overlay/Skin-Build/
+Overlay/Skin-Loop/
+Overlay/Text-Build/
+Overlay/Text-Build_2072.zip
