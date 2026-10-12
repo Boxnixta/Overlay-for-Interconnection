@@ -140,5 +140,5 @@ Crop at original size (1:1):
 | Fri, 16 Jan 2026 | Interconnection (soft) | 1 h 15 min |
 | Sat, 17 Jan 2026 | Interconnection (soft) | 1 h 15 min |
 | Fri, 23 Jan 2026 | Interconnection meeting | 30 min |
-| – | Independent work (concept, Blender build, animation, rendering) | 8 h |
-| | **Total** | **12 h** |
+| – | Independent work (concept, Blender build, animation, rendering) | 11 h |
+| | **Total** | **15 h** |
